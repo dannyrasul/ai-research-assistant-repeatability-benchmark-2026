@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below."
+title: "AI Research Assistant Repeatability Benchmark 2026"
+type: dataset
+version: 1.0.0
+date-released: 2026-08-01
+authors:
+  - name: "AI News & Updates Editorial Team"
+abstract: >-
+  Fifteen run-level observations from three matched attempts with
+  ResearchRabbit, Elicit, Scite, Consensus and Undermind, recording
+  repeatability, traceability, access barriers and preserved failures.
+keywords:
+  - artificial intelligence
+  - information retrieval
+  - research assistants
+  - reproducibility
+  - repeatability
+repository-code: "https://github.com/dannyrasul/ai-research-assistant-repeatability-benchmark-2026"
+url: "https://ainewsandupdates.com/how-we-review-ai-tools/"
+contact:
+  - name: "AI News & Updates Editorial Team"
+    email: "hello@ainewsandupdates.com"
