@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dannyrasul.github.io/ai-research-assistant-repeatability-benchmark-2026/sitemap.xml
