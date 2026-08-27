@@ -20,19 +20,13 @@ This dataset contains 15 run-level observations from a three-run comparison of f
 
 The benchmark tested whether repeated runs of the same higher-education research question produced consistent, traceable and accessible results. It records result-volume changes, access barriers, completion failures, sampled claim-to-source checks and preserved evidence URLs. It is not a vendor ranking.
 
-## What the 15 runs showed
+## Canonical methodology and teaching worksheet
 
-- ResearchRabbit's visible result count changed substantially between matched runs.
-- Elicit's tested free allowance prevented every planned task from being completed.
-- Scite produced one off-topic grounded response and one access-blocked run.
-- Consensus was the most consistent of the repeated searches in this limited sample.
-- Undermind reported 82, 90 and 84 papers across the three runs.
+The complete repeat-run method, seven-step teaching worksheet, limitations and citation guidance are published by [AI News & Updates](https://ainewsandupdates.com/how-to-test-ai-research-tools/).
 
-These are dated observations under specific account conditions, not permanent product rankings. Read the [seven-step repeatability test and results summary](https://ainewsandupdates.com/how-to-test-ai-research-tools/).
+- [Download the reusable AI Research Assistant Repeatability Worksheet](ai-research-assistant-repeatability-worksheet.docx) (DOCX, five pages)
 
-## Canonical methodology
-
-The complete testing protocol, evidence labels, disclosure rules and reusable workbook are published by [AI News & Updates](https://ainewsandupdates.com/how-we-review-ai-tools/).
+The broader editorial testing protocol, evidence labels and disclosure rules are documented in [How AI News & Updates Reviews AI Tools](https://ainewsandupdates.com/how-we-review-ai-tools/).
 
 - [Download the transparent review workbook](https://ainewsandupdates.com/wp-content/uploads/2026/07/AI-News-and-Updates-Transparent-AI-Tool-Review-Rubric.xlsx)
 - [Download the compact protocol PDF](https://ainewsandupdates.com/wp-content/uploads/2026/07/AI-News-and-Updates-Transparent-AI-Tool-Review-Rubric.pdf)
@@ -71,14 +65,8 @@ Blank values mean that the product did not expose the metric or that it was not 
 - Some evidence URLs may require an account or may change over time.
 - The benchmark does not establish clinical, educational or commercial superiority.
 
-## Citation
-
-Citation metadata is supplied in [CITATION.cff](CITATION.cff). GitHub users can use the repository's citation interface; other users may cite the dataset as:
-
-> AI News & Updates Editorial Team (2026). *AI Research Assistant Repeatability Benchmark 2026*, version 1.0.0. https://github.com/dannyrasul/ai-research-assistant-repeatability-benchmark-2026
-
 ## Attribution and reuse
 
-Published by AI News & Updates. Reuse is permitted with attribution to the dataset and the canonical methodology page. For corrections, contact hello@ainewsandupdates.com.
+Published by AI News & Updates. Reuse of the dataset and worksheet is permitted with attribution to the dataset and the canonical methodology page. For corrections, contact hello@ainewsandupdates.com.
 
-Suggested attribution: AI News & Updates (2026), “AI Research Assistant Repeatability Benchmark 2026,” https://ainewsandupdates.com/how-we-review-ai-tools/.
+Suggested attribution: AI News & Updates Editorial Team (2026), “AI Research Assistant Repeatability Benchmark 2026,” version 1.0.0, https://ainewsandupdates.com/how-to-test-ai-research-tools/.
